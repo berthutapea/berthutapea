@@ -35,6 +35,9 @@
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Git.svg" alt="Git" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Heroku.svg" alt="Heroku" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Netlify-Dark.svg" alt="Netlify" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
