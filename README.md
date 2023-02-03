@@ -1,11 +1,13 @@
-<p align="center"><a href="https://github.com/berthutapea/"><img width="80%" alt="Hello, I'm Gilbert Hutapea." src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/banner1.gif" /></a></p>
-<img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="400">
+h1 align="center">Hi 👋, I'm Gilbert Hutapea</h1>
+<h3 align="center">I Am a Front-End Web Developer Passionate To Improve My Coding</h3>
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
 
 - 🌱 I’m currently learning **Javascript Frameworks**
 
 - 💬 Ask me about **Front End Web Development**
+
+- 📫 How to reach me: **berthutapea@gmail.com**
 
 - ⚡ Fun fact : **I enjoy developing websites**
 
