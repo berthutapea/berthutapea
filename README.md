@@ -1,7 +1,7 @@
-<p align="center"><a href="https://github.com/AbdSalehh/"><img width="80%" alt="Hello, I'm Abd. Saleh." src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/banner1.gif" /></a></p>
-<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/programmer1.gif" height="auto" width="400">
+<p align="center"><a href="https://github.com/berthutapea/"><img width="80%" alt="Hello, I'm Gilbert Hutapea." src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/banner1.gif" /></a></p>
+<img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="400">
 
-- 💻 I’m a student at **University of Muhammadiyah Malang**
+- 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
 
 - 🌱 I’m currently learning **Javascript Frameworks**
 
@@ -11,8 +11,8 @@
 
 - 🎮 I like to **Play Games**
 <br><br><br>
-<a href="https://github.com/AbdSalehh/">
-   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AbdSalehh&style=flat-square&label=Profile+Views&color=0891b2" />
+<a href="https://github.com/berthutapea/">
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
 </a>
 
 <br>
@@ -52,9 +52,9 @@
 <br>
 <h2 align="left">Statistics</h2>
 <p align="middle">
-<a href="https://github.com/AbdSalehh">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdSalehh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdSalehh&layout=compact&langs_count=8&theme=radical"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdSalehh&theme=radical" alt="abdsalehh" />
+<a href="https://github.com/berthutapea">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berthutapea&layout=compact&langs_count=8&theme=radical"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=berthutapea&theme=radical" alt="berthutapea" />
 </a>
 </p>
