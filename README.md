@@ -1,5 +1,5 @@
-<h1> align="center">Hi 👋, I'm Gilbert Hutapea</h1>
-<h3 align="center">I Am a Front-End Web Developer Passionate To Improve My Coding</h3>
+<h1 align="center">Hi 👋, I'm Gilbert Hutapea</h1>
+<h3 align="center">A Passionate Front End Web Development From Indonesia</h3>
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
 
