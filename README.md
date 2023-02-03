@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact : **I enjoy developing websites**
 
-- 🎮 I like to **Play Games**
+- 🎹 I like to **Playing Music**
 <br><br><br>
 <a href="https://github.com/berthutapea/">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
