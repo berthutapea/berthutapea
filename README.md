@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/Hi.gif" width="40">, I'm Gilbert Hutapea</h1>
 <h3 align="center">A Passionate Front End Web Development From Indonesia</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Front+end+Developer;A+React+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)
-
 <img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
@@ -34,6 +32,8 @@
 <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Git.svg" alt="Git" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
 <br>
