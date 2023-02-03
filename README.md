@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="center" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/Hi.gif" width="50">, I'm Gilbert Hutapea</h1>
+<h1 align="center">Hi <img align="center" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/Hi.gif" width="30">, I'm Gilbert Hutapea</h1>
 <h3 align="center">A Passionate Front End Web Development From Indonesia</h3>
 <img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
 
