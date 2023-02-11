@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/Hi.gif" width="40">, I'm Gilbert Hutapea</h1>
-<i align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&width=435&lines=A+Fronted+Developer;A+React+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)</i>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&width=435&lines=A+Fronted+Developer;A+React+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)
 <img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
