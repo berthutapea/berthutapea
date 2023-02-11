@@ -1,18 +1,22 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/Hi.gif" width="40">, I'm Gilbert Hutapea</h1>
-<h3 align="center">A Passionate Front End Web Development From Indonesia</h3>
+<i align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&width=435&lines=A+Fronted+Developer;A+React+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)</i>
 <img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
 
-- 🌱 I’m currently learning **Javascript Frameworks**
+- ✨ Having explored for 1 + years, I am a front-end developer.
 
-- 💬 Ask me about **Front End Web Development**
+- 💬 I am capable to solve working problems.
 
-- 📫 How to reach me: **berthutapea@gmail.com**
+- 🌱 My next mission is how to become a MERN Stack Developer.
 
-- ⚡ Fun fact : **I enjoy developing websites**
+- 💥 I would love to build some Giant Website which will shine myself.
+
+- ⚡ Passionate about learning & development to reach the target.
 
 - 🎹 I like to **Playing Music**
+
+- 📫 How to reach me: **berthutapea@gmail.com**
 <br><br><br>
 <a href="https://github.com/berthutapea/">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
