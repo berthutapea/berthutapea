@@ -56,17 +56,19 @@
 
 - <a href="https://www.dicoding.com/certificates/2VX3Y0NYQPYQ">Pemrograman JavaScript</a>
    
-- <a href="https://www.dicoding.com/certificates/72ZD9J65JPYW">Front-End Web Pemula</a>
+- <a href="https://www.dicoding.com/certificates/72ZD9J65JPYW">Front-End Web</a>
 
-- <a href="https://www.sololearn.com/certificates/CC-YXLQWFCD">Introduction to HTML</a>
+- <a href="https://www.dicoding.com/certificates/72ZD9M7O6PYW">Aplikasi Web dengan React</a>
 
-- <a href="https://www.sololearn.com/certificates/CC-VKP1F9RQ">Introduction to CSS</a>
+- <a href="https://www.sololearn.com/certificates/CC-YXLQWFCD">HTML</a>
 
-- <a href="https://www.sololearn.com/certificates/CC-XUAQPWQ7">JavaScript Intermediate</a>
+- <a href="https://www.sololearn.com/certificates/CC-VKP1F9RQ">CSS</a>
 
-- <a href="https://codepolitan.com/c/CMKQ2BP">GIT untuk Pemula</a>
+- <a href="https://www.sololearn.com/certificates/CC-XUAQPWQ7">JavaScript</a>
 
-- <a href="https://codepolitan.com/c/C6NAWZ2">Python untuk Pemula</a>
+- <a href="https://codepolitan.com/c/CMKQ2BP">GIT</a>
+
+- <a href="https://codepolitan.com/c/C6NAWZ2">Pemrograman Python</a>
 
 - <a href="https://drive.google.com/file/d/1r0R8vOMfdR54ejFt3dGgFr1ng69X9JRx/view?usp=share_link">Web Development</a>
 </h4>
