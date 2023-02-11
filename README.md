@@ -4,21 +4,19 @@
 
 <img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
 
-# 👓 Here's some fun facts about me:
+### 👓 Here's Some Fun Facts About Me:
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
 
-- ✨ Having explored for 1 + years, I am a front-end developer.
-
 - 💬 I am capable to solve working problems.
 
-- 🌱 My next mission is how to become a MERN Stack Developer.
+- ✨ Having explored for 1 + years, I am a **Frontend Developer**.
 
 - 💥 I would love to build some Giant Website which will shine myself.
 
-- ⚡ Passionate about learning & development to reach the target.
+- 🌱 My next mission is how to become a **MERN Stack Developer**.
 
-- 🎹 I like to **Playing Music**
+- ⚡ Passionate about learning & development to reach the target.
 
 - 📫 How to reach me: **berthutapea@gmail.com**
 <br><br><br>
