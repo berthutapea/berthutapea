@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
 
-### 👓 Here's Some Fun Facts About Me:
+### 👨‍💻 Here's Some Fun Facts About Me:
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
 
