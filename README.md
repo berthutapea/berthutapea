@@ -2,8 +2,6 @@
 
 <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&width=435&lines=A+Fronted+Developer;A+React+JS+Developer;A+MERN+Stack+Developer" alt="Typing SVG" /></a>
 
-<img align="right" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/programmer1.gif" height="auto" width="350">
-
 ### 👨‍💻 Here's Some Fun Facts About Me:
 
 - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
@@ -81,4 +79,3 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berthutapea&layout=compact&langs_count=8&theme=radical"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=berthutapea&theme=radical" alt="berthutapea" />
 </a>
-</p>
