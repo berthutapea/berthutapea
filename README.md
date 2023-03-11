@@ -30,10 +30,12 @@
 <img src="assets/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Sass.svg" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="assets/icons/NodeJS-Dark.svg" alt="Node JS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
 <img src="assets/icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>&nbsp;
+<img src="assets/icons/MongoDB.svg" alt="ExpressJS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
