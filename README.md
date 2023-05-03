@@ -25,7 +25,7 @@
 ## 👉 Connect with me:
 
 <p align="left">
-    <a style="margin: 0 10px" href="https://berthutapea.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://i.ibb.co/CKnDqFN/Gilbert-Hutapea.png" alt="portfolio" height="30" width="30" /></a>
+    <a style="margin: 0 10px" href="https://berthutapea.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://i.ibb.co/CKnDqFN/Gilbert-Hutapea.png" alt="portfolio" height="30" width="40" /></a>
     <a style="margin: 0 10px" href="https://www.linkedin.com/in/gilberthutapea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/GilbertHutapeaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
     <a style="margin: 0 10px" href="https://www.instagram.com/bethup97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
