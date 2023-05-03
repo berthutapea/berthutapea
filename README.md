@@ -32,7 +32,7 @@
 </p>
 
 <br>
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">✨Languages and Tools:</h2>
 <p align="left"> 
 <img src="assets/icons/HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="assets/icons/CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
@@ -43,8 +43,10 @@
 <img src="assets/icons/NodeJS-Dark.svg" alt="Node JS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
 <img src="assets/icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Redux.svg" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="assets/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>&nbsp;
-<img src="assets/icons/MongoDB.svg" alt="ExpressJS" width="40" height="40"/>&nbsp;
+<img src="assets/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="assets/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
@@ -57,7 +59,7 @@
 </p>
 
 <br>
-<h2 align="left">Certificates</h2>
+<h2 align="left">📜Certificates</h2>
 
 <h4>
    
@@ -83,7 +85,7 @@
 </h4>
 
 <br>
-<h2 align="left">Statistics</h2>
+<h2 align="left">🔥Statistics</h2>
 <p align="middle">
 <a href="https://github.com/berthutapea">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>;
