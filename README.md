@@ -16,6 +16,8 @@
 
 - ⚡ Passionate about learning & development to reach the target.
 
+- 📝 Get Details about me: [Curriculum Vitae'](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link)
+
 - 📫 How to reach me: **berthutapea@gmail.com**
 <br><br><br>
 <a href="https://github.com/berthutapea/">
@@ -63,25 +65,27 @@
 
 <h4>
    
-- <a href="https://www.dicoding.com/certificates/2VX31353JZYQ">Pemrograman Web</a>
+- <a href="https://www.dicoding.com/certificates/2VX31353JZYQ">Learn Basic Web Programming from Dicoding Indonesia</a>
 
-- <a href="https://www.dicoding.com/certificates/2VX3Y0NYQPYQ">Pemrograman JavaScript</a>
+- <a href="https://www.dicoding.com/certificates/2VX3Y0NYQPYQ">Learn Basic JavaScript Programming from Dicoding Indonesia</a>
    
-- <a href="https://www.dicoding.com/certificates/72ZD9J65JPYW">Front-End Web</a>
+- <a href="https://www.dicoding.com/certificates/72ZD9J65JPYW">Learn to Make a Web Front-End for Beginners from Dicoding Indonesia</a>
 
-- <a href="https://www.dicoding.com/certificates/72ZD9M7O6PYW">Aplikasi Web dengan React</a>
+- <a href="https://www.dicoding.com/certificates/72ZD9M7O6PYW">Learn to Make Web Applications with React from Dicoding Indonesia</a>
 
-- <a href="https://www.sololearn.com/certificates/CC-YXLQWFCD">HTML</a>
+- <a href="https://www.sololearn.com/certificates/CC-YXLQWFCD">Introduction to HTML from sololearn</a>
 
-- <a href="https://www.sololearn.com/certificates/CC-VKP1F9RQ">CSS</a>
+- <a href="https://www.sololearn.com/certificates/CC-VKP1F9RQ">Introduction to CSS from sololearn</a>
 
-- <a href="https://www.sololearn.com/certificates/CC-XUAQPWQ7">JavaScript</a>
+- <a href="https://www.sololearn.com/certificates/CC-XUAQPWQ7">JavaScript Intermediate from sololearn</a>
 
-- <a href="https://codepolitan.com/c/CMKQ2BP">GIT</a>
+- <a href="https://www.sololearn.com/certificates/CT-ILYDFSXD">React + Redux from sololearn</a>
 
-- <a href="https://codepolitan.com/c/C6NAWZ2">Pemrograman Python</a>
+- <a href="https://codepolitan.com/c/CMKQ2BP">GIT from CODEPOLITAN</a>
 
-- <a href="https://drive.google.com/file/d/1r0R8vOMfdR54ejFt3dGgFr1ng69X9JRx/view?usp=share_link">Web Development</a>
+- <a href="https://codepolitan.com/c/C6NAWZ2">Python Programming from CODEPOLITAN</a>
+
+- <a href="https://drive.google.com/file/d/1r0R8vOMfdR54ejFt3dGgFr1ng69X9JRx/view?usp=share_link">Web Developmet from Sekolah Tinggi Teknologi Informatika Sony Sugema</a>
 </h4>
 
 <br>
