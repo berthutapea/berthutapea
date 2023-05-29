@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Here's Some Fun Facts About Me:
 
-- 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema**
+<!-- - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema** -->
 
 - 💬 I am capable to solve working problems.
 
