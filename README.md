@@ -60,7 +60,7 @@
 <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<br>
+<!-- <br>
 <h2 align="left">📜Certificates</h2>
 
 <h4>
@@ -86,11 +86,11 @@
 - <a href="https://codepolitan.com/c/C6NAWZ2">Python Programming from CODEPOLITAN</a>
 
 - <a href="https://drive.google.com/file/d/1r0R8vOMfdR54ejFt3dGgFr1ng69X9JRx/view?usp=share_link">Web Developmet from Sekolah Tinggi Teknologi Informatika Sony Sugema</a>
-</h4>
+</h4> -->
 
 <br>
 <h2 align="left">🔥Statistics</h2>
 <p align="middle">
 <a href="https://github.com/berthutapea">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
