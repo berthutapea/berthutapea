@@ -1,18 +1,10 @@
-<h1 align="center">Hi <img align="center" src="https://github.com/berthutapea/berthutapea/blob/main/assets/images/Hi.gif" width="40">, I'm Gilbert Hutapea</h1>
-
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F74700&width=435&lines=A+MERN+Stack+Developer;A+Fullstack+Developer;A+Fronted+Developer" alt="Typing SVG" /></a>
+<h1 align="center">👋🏻 Hi, I'm Gilbert Hutapea</h1>
 
 ### 👨‍💻 Here's Some Fun Facts About Me:
 
-<!-- - 💻 I’m a student at **Sekolah Tinggi Teknologi Informatika Sony Sugema** -->
-
 - 💬 I am capable to solve working problems.
 
-- ✨ Having explored for 1 + years, I am a **Frontend Developer**.
-
 - 💥 I would love to build some Giant Website which will shine myself.
-
-- 🌱 My next mission is how to become a **MERN Stack Developer**.
 
 - ⚡ Passionate about learning & development to reach the target.
 
