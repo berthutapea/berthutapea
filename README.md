@@ -8,7 +8,7 @@
 
 - ⚡ Passionate about learning & development to reach the target.
 
-- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link)
+<!-- - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link) -->
 
 - 📫 How to reach me : **berthutapea@gmail.com**
 <br><br><br>
@@ -41,6 +41,7 @@
 <img src="assets/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="assets/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="assets/icons/GCP-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
