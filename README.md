@@ -98,8 +98,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=AdobePhotoshop&logoColor=3178C6" alt="Adobe Photoshop logo" title="AdobePhotoshop" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Jira-282C34?logo=jirasoftware&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" />
 &nbsp;
 
